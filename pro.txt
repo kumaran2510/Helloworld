@@ -1,0 +1,5 @@
+1 oofice angular 11 , .net core 
+db mysql
+tab ionic
+db api
+script php
